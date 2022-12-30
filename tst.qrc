@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Insightzzz.png</file>
+    <file>mahindra-logo.jpg</file>
+  </qresource>
+</RCC>
